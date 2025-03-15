@@ -18,12 +18,12 @@ function Home() {
           </p>
           
           {/* Social Icons */}
-          <div className="flex justify-center space-x-3 mb-4">
+          <div className="flex justify-center space-x-8 mb-9">
             <a 
               href="https://github.com/blackscorche" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className='text-blue-500 hover:text-cyan-400 text-2xl'
+              className='text-blue-500 hover:text-cyan-400 text-4xl'
             >
               <FaGithub />
             </a>
@@ -32,7 +32,7 @@ function Home() {
               href="https://www.linkedin.com/in/abu-issa-a12010306/" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className='text-blue-500 hover:text-cyan-400 text-2xl'
+              className='text-blue-500 hover:text-cyan-400 text-4xl'
             >
               <FaLinkedin />
             </a>
@@ -41,7 +41,7 @@ function Home() {
               href="https://wa.me/2349037959033" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className='text-blue-500 hover:text-cyan-400 text-2xl'
+              className='text-blue-500 hover:text-cyan-400 text-4xl'
             >
               <FaWhatsapp />
             </a>
@@ -51,7 +51,7 @@ function Home() {
           <div className="flex justify-center space-x-3">
             <a 
               href="Projects" 
-              className='bg-blue-500 py-2 px-5 rounded font-medium transition duration-200 
+              className='bg-blue-500 py-3 px-5 rounded font-medium transition duration-200 
                          relative overflow-hidden hover:-translate-y-0.5 
                          hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]'
             >
@@ -60,7 +60,7 @@ function Home() {
 
             <a 
               href="contact" 
-              className='border border-blue-500/50 text-blue-500 py-2 px-5 rounded font-medium 
+              className='border border-blue-500/50 text-blue-500 py-3 px-5 rounded font-medium 
                          transition-all duration-200 relative overflow-hidden 
                          hover:-translate-y-0.5 hover:bg-blue-500/10'
             >
