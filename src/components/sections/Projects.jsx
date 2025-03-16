@@ -21,7 +21,7 @@ const Projects = () => {
                                 title: "ScorcheTech Website Builder",
                                 description: "A platform where users can order custom-built websites or buy pre-made templates.",
                                 techStack: ["React", "Node.js", "Firebase"],
-                                link: "scorchetech.vercel.app"
+                                link: "https://scorchetech.vercel.app"
                             },
                             {
                                 title: "Eccormerce UI",
