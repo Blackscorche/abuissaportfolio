@@ -13,7 +13,7 @@ const Projects = () => {
                         {[
                             {
                                 title: "AquaXchange",
-                                description: "AquaXchange a platform where you can check prices of currencies or exchange them to see there vlues worth in othere currencies.",
+                                description: "AquaXchange Your go-to platform for checking currency exchange rates and converting currencies.",
                                 techStack: ["React", "Node.js", "In Progress"],
                                 link: "https://aquaxchanger.vercel.app"
                             },
