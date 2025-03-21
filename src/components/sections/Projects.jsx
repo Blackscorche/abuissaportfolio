@@ -12,10 +12,16 @@ const Projects = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         {[
                             {
+                                title: "AquaXchange",
+                                description: "AquaXchange a platform where you can check prices of currencies or exchange them to see there vlues worth in othere currencies.",
+                                techStack: ["React", "Node.js", "In Progress"],
+                                link: "https://scorchepay.vercel.app"
+                            },
+                            {
                                 title: "ScorchePay",
                                 description: "A VTU platform By ScorcheTech.",
                                 techStack: ["React", "Node.js", "In Progress"],
-                                link: "https://scorchenet.vercel.app"
+                                link: "https://scorchepay.vercel.app"
                             },
                             {
                                 title: "ScorcheTech Website Builder",
