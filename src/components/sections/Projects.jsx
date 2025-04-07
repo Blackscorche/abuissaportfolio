@@ -12,9 +12,15 @@ const Projects = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         {[
                             {
+                                title: "AztbStores",
+                                description: "A nigerian electronic store showing their online presence with there products.",
+                                techStack: ["React", "Node.js", "Finished"],
+                                link: "https://aztbstores.vercel.app"
+                            },
+                            {
                                 title: "AquaXchange",
                                 description: "AquaXchange Your go-to platform for checking currency exchange rates and converting currencies.",
-                                techStack: ["React", "Node.js", "In Progress"],
+                                techStack: ["React", "Node.js", "Finished"],
                                 link: "https://aquaxchanger.vercel.app"
                             },
                             {
