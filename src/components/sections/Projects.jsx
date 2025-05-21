@@ -17,6 +17,13 @@ const Projects = () => {
                                 techStack: ["React", "Node.js", "Finished"],
                                 link: "https://aztbstores.vercel.app"
                             },
+
+                            {
+                                title: "YbHomes",
+                                description: "A nigerian RealEstate website for home buying and rentals.",
+                                techStack: ["React", "Node.js", "in progress, frontend V1 is done."],
+                                link: "https://ybhomes.vercel.app"
+                            },
                             {
                                 title: "AquaXchange",
                                 description: "AquaXchange Your go-to platform for checking currency exchange rates and converting currencies.",
