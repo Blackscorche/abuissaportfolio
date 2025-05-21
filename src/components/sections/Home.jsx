@@ -6,7 +6,7 @@ function Home() {
   return (
     <section id='home' className='min-h-screen flex items-center justify-center relative'>
       <RevealOnScroll>
-        <div className="text-center z-10 px-4">
+        <div className="text-center z-10 px-3">
           
           <h1 className='text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-tight'>
             Hi, I'm Abu Issa
